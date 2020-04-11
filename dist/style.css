@@ -1,5 +1,5 @@
 .container {
-  width: 1200px;
+  width: 1250px;
   height: 370px;
   
 }
@@ -7,7 +7,7 @@
 .image {
   background-image: url( 
      "http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png");
-  width: 1200px;
+  width: 1250px;
   height: 370px;
   background-size: contain; 
   position: relative;
